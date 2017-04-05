@@ -1,0 +1,26 @@
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+	text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    background-color: #001f33
+}
+
+p {
+	font-family: sans-serif;
+	color: white;
+	font-size: 20px;
+}
+img {
+	border: 1px solid #007dbb;
+}
+
